@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">hymnal-android-gla</string>
+    <string name="app_name">Apostolic Hymns</string>
+    <string name="Open_drawer_text"> Open drawer </string>
+    <string name="Close_drawer_text"> Close drawer </string>
 </resources>
